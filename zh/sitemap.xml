@@ -2,80 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/zh/about/</loc>
+    <loc>http://xf-trans.com/zh/about/</loc>
     <lastmod>2025-07-29T11:10:36+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/about/"
+                href="http://xf-trans.com/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/about/"
+                href="http://xf-trans.com/zh/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/</loc>
+    <loc>http://xf-trans.com/zh/</loc>
     <lastmod>2025-07-29T11:10:36+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="http://xf-trans.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/"
+                href="http://xf-trans.com/zh/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/contact/</loc>
+    <loc>http://xf-trans.com/zh/contact/</loc>
     <lastmod>2025-07-29T10:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/contact/"
+                href="http://xf-trans.com/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/contact/"
+                href="http://xf-trans.com/zh/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/services/</loc>
+    <loc>http://xf-trans.com/zh/services/</loc>
     <lastmod>2025-07-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/"
+                href="http://xf-trans.com/en/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/services/"
+                href="http://xf-trans.com/zh/services/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/categories/</loc>
+    <loc>http://xf-trans.com/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="http://xf-trans.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/categories/"
+                href="http://xf-trans.com/zh/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/tags/</loc>
+    <loc>http://xf-trans.com/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="http://xf-trans.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/tags/"
+                href="http://xf-trans.com/zh/tags/"
                 />
   </url>
 </urlset>
